@@ -5,6 +5,10 @@
     <br /><br />
     <a href="https://github.com/urmzd/rlgp-thesis/releases/latest/download/thesis.pdf">Download PDF</a>
     &middot;
+    <a href="https://arxiv.org/abs/2601.09736">arXiv</a>
+    &middot;
+    <a href="https://web.cs.dal.ca/~mheywood/Thesis/UMukhammadnaim.pdf">Dalhousie</a>
+    &middot;
     <a href="https://github.com/urmzd/linear-gp">Framework Source</a>
   </p>
 </p>
