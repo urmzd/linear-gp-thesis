@@ -4,7 +4,6 @@
 # Branches that trigger releases when commits are pushed.
 branches:
   - main
-  - master
 
 # Prefix prepended to version tags (e.g. "v1.2.0").
 tag_prefix: "v"
